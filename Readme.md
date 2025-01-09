@@ -33,7 +33,8 @@ To run **SortViz** on your local machine, follow these steps:
 
 
    ```bash
-   git clone https://github.com/VarshaSubramanya/SortViz-algorithm-visualizer.git
+   git clone https://github.com/Crypt0-X2/AlgoWise-algorithm-visualizer-main
    npm install
    npm run dev
+   '''
 Access the App: Once the server starts, open your browser and visit http://localhost:3000 to start using SortViz.
