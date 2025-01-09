@@ -13,7 +13,7 @@ const FooterDiv = styled.div`
 export function Footer() {
   return (
     <FooterDiv>
-      ALGOWISE - ALGORITHM VISUALIZER &nbsp;
+      SortViz - Visualize Sorting Algorithms in Action &nbsp;
     </FooterDiv>
   );
 }

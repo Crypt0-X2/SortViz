@@ -51,7 +51,7 @@ export function NavBar() {
           alignItems: "center",
         }}
       >
-        <h3 className={classes.title}>AlgoWise</h3>
+        <h3 className={classes.title}>SortViz</h3>
       </div>
       <AppBar position="static" color="default">
         <Tabs
