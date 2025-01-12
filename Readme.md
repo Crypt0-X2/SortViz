@@ -17,24 +17,17 @@ Welcome to **SortViz**, a powerful and interactive sorting algorithm visualizer 
 - Generate new random arrays with each execution
 - Compare multiple sorting algorithms side by side for performance analysis
 
-### 🛠️ Tech Stack:
-- **React**: A fast and flexible frontend library for building user interfaces.
-- **Redux Toolkit**: Simplifies state management with an efficient and maintainable approach.
-- **React Router**: Seamlessly handle navigation between different views of the app.
-- **Lucide**: An icon pack used for enhancing the UI design.
-- **Sonner**: A toast notification library that provides instant feedback.
-- **React-use**: A set of custom hooks that simplify common React functionalities.
-- **React Joyride**: Interactive app tours to help users get familiar with the features.
-- **React Switch**: A customizable switch component for toggling between options.
+### sample screenshot 
+![alt text](image.png)
 
 ### 🚀 Get Started Locally
 To run **SortViz** on your local machine, follow these steps:
 
 
 
-   ```bash
-   git clone https://github.com/Crypt0-X2/AlgoWise-algorithm-visualizer-main
+   bash
+   git clone https://github.com/Crypt0-X2/SortViz
    npm install
    npm run dev
-   '''
+
 Access the App: Once the server starts, open your browser and visit http://localhost:3000 to start using SortViz.
